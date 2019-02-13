@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "https://github.com/the-deck/the-deck.git",
   "author": "GimYoungPhil <youngphil.gim@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "awesome-typescript-loader": "^5.2.1",
+    "source-map-loader": "^0.2.4",
+    "webpack": "^4.29.3",
+    "webpack-cli": "^3.2.3"
+  }
 }
